@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/onursabanoglu/release/compare/v1.4.0...v1.4.1) (2024-06-04)
+
+
+### Bug Fixes
+
+* değişiklikler var ([c5bac8f](https://github.com/onursabanoglu/release/commit/c5bac8f2127d9b8ab8d691c16cdf8ac65f138e3e))
+
 # [1.4.0](https://github.com/onursabanoglu/release/compare/v1.3.0...v1.4.0) (2024-06-04)
 
 
