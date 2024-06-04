@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/onursabanoglu/release/compare/v1.6.0...v1.7.0) (2024-06-04)
+
+
+### Features
+
+* new changes changes ([bbc758e](https://github.com/onursabanoglu/release/commit/bbc758e3ce1243c25dc00684fa382ac6c6e6d9ff))
+
 # [1.6.0](https://github.com/onursabanoglu/release/compare/v1.5.0...v1.6.0) (2024-06-04)
 
 
