@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/onursabanoglu/release/compare/v1.4.1...v1.5.0) (2024-06-04)
+
+
+### Features
+
+* changes ([a240390](https://github.com/onursabanoglu/release/commit/a240390988eef7d30cfb82e70431481634f9558c))
+
 ## [1.4.1](https://github.com/onursabanoglu/release/compare/v1.4.0...v1.4.1) (2024-06-04)
 
 
